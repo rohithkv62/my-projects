@@ -1,1 +1,1 @@
-# my-projects
+# Student-management-system
